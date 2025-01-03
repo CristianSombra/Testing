@@ -1,3 +1,5 @@
+// Comparación de valores esperados vs reales usando matchers como toBe, toEqual, toContain.
+
 describe('matchers', () => {
     test('toBe', () => {
         expect(true).toBe(true)
