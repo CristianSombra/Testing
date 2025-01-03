@@ -1,3 +1,5 @@
+// Uso de variables o funciones globales en un entorno de prueba, como beforeAll, afterAll, o configuraciones globales.
+
 test('description', () => {
     expect(true).toBe(true);
 });

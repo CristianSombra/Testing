@@ -1,3 +1,5 @@
+// Configuración y limpieza antes y después de cada prueba con beforeEach, afterEach, beforeAll, y afterAll.
+
 describe('setup and teardown examples', () => {
     beforeAll(() => {
         console.log('beforeAll')

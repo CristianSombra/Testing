@@ -1,3 +1,5 @@
+// Simulación de funciones o módulos externos para aislar y probar componentes específicos.
+
 test('first example', () => {
     const myMock = jest.fn()
     .mockReturnValueOnce(true)

@@ -1,3 +1,5 @@
+// Pruebas de funciones asíncronas, verificando el comportamiento correcto con async/await, Promises, o callbacks.
+
 // callbacks
 
 const asyncCallBack = (cb) => {
