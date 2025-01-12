@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import Counter from './components/counter/counter';
 import './App.css';
 
 function App() {
@@ -17,6 +18,8 @@ function App() {
         >
           Learn React
         </a>
+        <h2>Prueba Contador</h2>
+        <Counter />
       </header>
     </div>
   );
